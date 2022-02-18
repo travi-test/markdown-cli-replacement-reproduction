@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "markdownlint-cli": "0.31.1"
+    "remark-cli": "10.0.1"
   }
 }
